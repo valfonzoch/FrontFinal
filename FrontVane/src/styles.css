@@ -1,0 +1,8 @@
+/*Este define los margenes de  todos los cuadros*/
+/*1*/
+.mat-card {
+    border-radius: 32px;
+    margin: 20px 20px;
+    padding: 10px;
+    border-color: #ba61d1;
+}
